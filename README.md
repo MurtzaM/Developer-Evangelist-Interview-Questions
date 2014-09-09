@@ -37,12 +37,6 @@ The goal of the questions in this section is to see if a candidate can explain t
 
 - What happens when you search on Google?
 
-- How would you design a parking garage using OO principles?
-  - What classes?
-  - What methods go in each class?
-  - What data structures would you use?
-  - What design patterns would you use?
-
 ##General
 
 - What langauges do you feel comfortable coding in?
