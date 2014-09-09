@@ -3,13 +3,15 @@ Interview Questions for Developer Evangelists/Advocates
 
 ###About
 
-This repo contains a list of interview questions to ask developer evangelist/advocate candidates. To add a question to this list, please submit an issue, or fork this repo and submit a pull request.
+This repo contains a list of interview questions to ask developer evangelist/advocate candidates.
+
+To add a question to this list, please submit an issue, or fork this repo and submit a pull request.
 
 ##Marketing and Community Building
 
 - What developer sites are you active on?
 
-- What steps would take to increase use of company's APIs by developers?
+- What steps would take to increase the use of our company's APIs by developers?
 
 - Have you spoken at any meetup groups or conferences? What topics are you most interested in speaking on?
 
