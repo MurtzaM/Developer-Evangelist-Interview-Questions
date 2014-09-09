@@ -29,11 +29,11 @@ The goal of the questions in this section is to test for basic programming skill
 
 The goal of the questions in this section is to see if a candidate can explain technical concepts clearly. It is not important if the candidate knows a specific technical concept. 
 
-- Explain? 
-  - Encasulation
-  - Polymorphism
-  - Inheritance
-  - MVC
+- Explain: 
+  - Encasulation?
+  - Polymorphism?
+  - Inheritance?
+  - MVC?
 
 - What happens when you search on Google?
 
