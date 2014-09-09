@@ -5,7 +5,7 @@ Interview Questions for Developer Evangelists/Advocates
 
 This repo contains a list of interview questions to ask developer evangelist/advocate candidates.
 
-To add a question to this list, please submit an issue, or fork this repo and submit a pull request.
+To add a question to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions/issues), or fork this repo and submit a pull request.
 
 ##Marketing and Community Building
 
@@ -17,23 +17,17 @@ To add a question to this list, please submit an issue, or fork this repo and su
 
 - How would you plan a developer event for 25 people? 1000?
 
-- How would you evaluate if the company should sponsor a certain event (conference, hackathon, meetup group)?
+- How would you evaluate if our company should sponsor an event (conference, hackathon, meetup group)?
 
 ##Coding
 
-The goal of the questions in this section is to test for basic programming skill. These questions can be answered using the candidates preferred programming language.
+The goal of the questions in this section is to test for basic programming skill. These questions can be answered using the candidate's preferred programming language.
 
 - Write a program that prints the numbers from 1 to 100. For multiples of three print “Fizz,” instead of the number. For the multiples of five print “Buzz”. For numbers that are multiples of both three and five print “FizzBuzz."
 
 - Reverse a string without helper methods.
 
 - Given a list of integers, find the maximum value.
-
-##Developer Documentation
-
-- What are important elements of good developer documentation? 
-
-- What companies do you think have good developer documentation?
 
 ##Software Architecture 
 
@@ -60,6 +54,9 @@ The goal of the questions in this section is to see if a candidate can explain t
 
 - What languages are you interested in learning? 
 
+- What are important elements of good developer documentation? 
+
+- What companies do you think have good developer documentation?
 
 
 
