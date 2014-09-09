@@ -31,7 +31,6 @@ The goal of the questions in this section is to see if a candidate can explain t
 
 - Explain? 
   - Encasulation
-  - Dead lock
   - Polymorphism
   - Inheritance
   - MVC
@@ -53,8 +52,3 @@ The goal of the questions in this section is to see if a candidate can explain t
 - What are important elements of good developer documentation? 
 
 - What companies do you think have good developer documentation?
-
-
-
-
-
