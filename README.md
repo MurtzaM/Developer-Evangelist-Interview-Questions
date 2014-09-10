@@ -42,7 +42,7 @@ The goal of the questions in this section is to see if a candidate can explain t
 
 ##General
 
-- What langauges do you feel comfortable coding in?
+- What languages do you feel comfortable coding in?
 
 - What languages are you interested in learning? 
 
