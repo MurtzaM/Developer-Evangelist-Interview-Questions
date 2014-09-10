@@ -51,3 +51,7 @@ The goal of the questions in this section is to see if a candidate can explain t
 - What companies do you think have good developer documentation?
 
 - Do you prefer to work independently or on a team?
+
+- What is your process to get familiar with a codebase?
+
+- How do you debug your own code? How do you debug code you are unfamiliar with?
