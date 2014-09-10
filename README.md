@@ -30,7 +30,7 @@ The goal of the questions in this section is to test for basic programming skill
 The goal of the questions in this section is to see if a candidate can explain technical concepts clearly. Knowledge around a specific technical concept is not the goal of this exercise. 
 
 - Explain: 
-  - Encasulation?
+  - Encapsulation?
   - Inheritance?
   - Distributed systems?
   - Hash tables?
