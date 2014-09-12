@@ -60,5 +60,5 @@ The goal of the questions in this section is to see if a candidate can explain t
 
 - To help us learn more about your past experiences, could please provide us with any of the following if available? 
   - Links to your profile on sites like Stackoverflow, GitHub, Quora, Twitter, or Hacker News
-  - Link to a video of a recent talk you gave
-  - Link to a presentation or technical documentation you created
+  - Link to slides or video of a recent talk you gave
+  - Link to a blog post on a technical topic
