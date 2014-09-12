@@ -55,3 +55,10 @@ The goal of the questions in this section is to see if a candidate can explain t
 - What is your process to get familiar with a codebase?
 
 - How do you debug your own code? How do you debug code you are unfamiliar with?
+
+##Pre-Interview / Application
+
+- To help us learn more about your past experiences, could please provide us with any of the following if available? 
+  - Links to your profile on popular developer sites like Stackoverflow, GitHub, Twitter, or Hacker News
+  - Link to a video of a recent talk you gave
+  - Link to a presentation or technical documentation you created
