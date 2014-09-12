@@ -59,6 +59,6 @@ The goal of the questions in this section is to see if a candidate can explain t
 ##Pre-Interview / Application
 
 - To help us learn more about your past experiences, could please provide us with any of the following if available? 
-  - Links to your profile on popular developer sites like Stackoverflow, GitHub, Twitter, or Hacker News
+  - Links to your profile on sites like Stackoverflow, GitHub, Quora, Twitter, or Hacker News
   - Link to a video of a recent talk you gave
   - Link to a presentation or technical documentation you created
