@@ -1,13 +1,21 @@
 Interview Questions for Developer Evangelist/Advocate Candidates
 ========================================
 
-This repo contains a list of interview questions to ask developer evangelist/advocate candidates. To add a question to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions/issues), or fork this repo and submit a pull request.
+This repo contains a list of interview questions to ask developer evangelist/advocate candidates. To add a question to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions/issues), or fork this repo and submit a pull request. 
+
+And please join the discussion on the LinkedIn Group, [Developer Evangelists](https://www.linkedin.com/groups/Developer-Evangelists-3297124?home=).
+
+---
 
 ##Marketing and Community Building
 
 - What developer sites are you active on?
 
 - What steps would take to increase the use of our company's APIs by developers?
+  OR
+- What's the most important one or two things to any early developer experience with a new platform? 
+
+- Which languages, technologies, and/or communities do you see on the rise among enterprise developers?  
 
 - Have you spoken at any meetup groups or conferences? What topics are you most interested in speaking on?
 
@@ -58,7 +66,12 @@ The goal of the questions in this section is to see if a candidate can explain t
 
 ##Pre-Interview / Application
 
-- To help us learn more about your past experiences, could please provide us with any of the following if available? 
-  - Links to your profile on sites like Stackoverflow, GitHub, Quora, Twitter, or Hacker News
-  - Link to slides or video of a recent talk you gave
-  - Link to a blog post on a technical topic
+- What emerging trends in developer facing APIs are you excited about?
+
+- What are the two most effective techniques you would employ to grow our ecosystem? 
+
+- To help us learn more about you, show us something you've done, built, or are proud of! 
+  - Github or Bitbucket repo's.
+  - Links to your profile on Stackoverflow, Quora, Twitter, HN, ...
+  - Link to slides and/or video of technical talks you've given.
+  - Blog post (or draft) you've written covering a technical area that would be of interest to the developer community.
