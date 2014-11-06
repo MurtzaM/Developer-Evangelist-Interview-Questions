@@ -12,7 +12,7 @@ And please join the discussion on the LinkedIn Group, [Developer Evangelists](ht
 - What developer sites are you active on?
 
 - What steps would take to increase the use of our company's APIs by developers?
-  OR
+
 - What's the most important one or two things to any early developer experience with a new platform? 
 
 - Which languages, technologies, and/or communities do you see on the rise among enterprise developers?  
