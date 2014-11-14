@@ -3,7 +3,6 @@ Interview Questions for Developer Evangelist/Advocate Candidates
 
 This repo contains a list of interview questions to ask developer evangelist/advocate candidates. To add a question to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions/issues), or fork this repo and submit a pull request. 
 
-And please join the discussion on the LinkedIn Group, [Developer Evangelists](https://www.linkedin.com/groups/Developer-Evangelists-3297124?home=).
 
 ---
 
